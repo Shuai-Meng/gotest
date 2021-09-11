@@ -1,11 +1,7 @@
 package main
 
-import "fmt"
+import "pkg"
 
 func main() {
-	Test()
-}
-
-func Test() {
-	fmt.Println("first version")
+	pkg.Test()
 }
