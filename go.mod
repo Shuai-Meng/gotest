@@ -1,3 +1,3 @@
-module github.com/shuaimeng/test
+module github.com/Shuai-Meng/test
 
 go 1.12
