@@ -1,4 +1,4 @@
-package show
+package gotest
 
 import "fmt"
 
