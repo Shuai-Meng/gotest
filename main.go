@@ -1,7 +1,7 @@
 package main
 
-import "pkg"
+import "github.com/Shuai-Meng/gotest/show"
 
 func main() {
-	pkg.Test()
+	show.Test()
 }
