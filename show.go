@@ -3,5 +3,5 @@ package gotest
 import "fmt"
 
 func Test() {
-	fmt.Println("third version")
+	fmt.Println("fourth version")
 }
